@@ -5,7 +5,6 @@ spring:
 server:
   port: 19090
 
-
 eureka:
   client:
     # 유레카 서버가 자기 자신을 등록하지 않도록 설정
